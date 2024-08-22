@@ -1,2 +1,2 @@
-# Progama-o-2-novo-
-Atividades de progamação 2
+# Atividades de programação
+Atividades sobre função, retorno e classes
